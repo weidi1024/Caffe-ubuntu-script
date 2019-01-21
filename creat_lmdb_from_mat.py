@@ -1,3 +1,6 @@
+#there has a bug ,which when channel > 1 ,the created lmdb file is wrong
+#to be continue...
+
 #date:20180907
 #anthor:weidi
 #aim:creat lmdb file from mat file
